@@ -14,7 +14,7 @@ print('alamat : ',alamat)
 
 print("================================================")
 
-nama = 'eurico arva adytia'
+nama = 'Eurico Arva Adytia'
 kelas = 'X RPL 2'
 absen = '11'
 umur = '15'
