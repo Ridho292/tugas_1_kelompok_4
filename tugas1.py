@@ -18,7 +18,7 @@ nama = 'eurico arva adytia'
 kelas = 'X RPL 2'
 absen = '11'
 umur = '15'
-agama = 'kristen'
+agama = 'Kristen'
 alamat = 'sweta'
 
 print('nama : ',nama)
